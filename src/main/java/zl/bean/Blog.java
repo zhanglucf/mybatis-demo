@@ -4,6 +4,7 @@ public class Blog {
 
     private int id;
 
+
     private String dbname;
 
     public String getDbname() {
